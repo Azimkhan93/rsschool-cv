@@ -62,3 +62,18 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 | May 2016 - Aug 2016 | Senior Analyst - Beeline Uzbekistan                                  |
 
 
+## Education
+| Period              | Course/Program/Degree                                   | Educational Institution  |
+| --------------------|---------------------------------------------------------|--------------------------| 
+| Jun 2022 - Ongoing  | React. The Complete Guide by Maximilian Schwarzmüller   | Udemy                    |
+| Aug 2021 - Sep 2021 | HTML верстка реального макета от А до Я. Джедай верстки | WebDesign Master         |
+| Apr 2021 - Jun 2021 | HTML, CSS                                               | W3School                 |
+| Sep 2019 - Jan 2021 | MBA (Finance)                                           | University of Sunderland |
+| Oct 2013 - May 2016 | Bachelor of Arts (Hons) Accounting and Finance          | University of Sunderland |
+| Sep 2012 - May 2013 | Foundation degree                                       | MDIS in Tashkent         |
+
+## English language skills
+- English level: C1 (Advanced) Passed EPAM training test
+- Bachelor and Master's studies were taught in English
+- IELTS bandscore 6.5 was obtained in 2012
+- Studied English on courses from 2008 until 2012
