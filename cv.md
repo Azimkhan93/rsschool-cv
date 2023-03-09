@@ -63,6 +63,7 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 
 
 ## Education
+
 | Period              | Course/Program/Degree                                   | Educational Institution  |
 | --------------------|---------------------------------------------------------|--------------------------| 
 | Jun 2022 - Ongoing  | React. The Complete Guide by Maximilian Schwarzmüller   | Udemy                    |
